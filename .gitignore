@@ -1,4 +1,12 @@
 Final_Computer_Vision_Project/
-dataset/
 __pycache__/
 *.mp4
+
+dataset/2 fists walking forward/
+dataset/2 fists walking left/
+dataset/2 fists walking right/
+dataset/battlefield/
+dataset/cover protection/
+dataset/open palms grenade/
+dataset/Point_Shooting/
+dataset/Reload gun/
